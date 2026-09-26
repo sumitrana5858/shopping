@@ -27,7 +27,7 @@ const products = [
 const Home = () => {
   return (
     <div>
-      <h1>Shopping Store</h1>
+    <h1>Shopping Store 🚀 CI/CD</h1>
 
       <div className="products">
         {products.map((product) => (
